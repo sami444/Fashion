@@ -1,0 +1,402 @@
+@media (max-width: 1200px) {
+    nav ul li a {
+        font-size: 15px;
+    }
+}
+@media (max-width: 1030px) {
+    .form-inline input {
+        width: 180px !important;
+    }
+}
+@media (max-width: 991px) {
+    .A9 {
+        width: 90%;
+    }
+    .map-details i {
+        font-size: 60px;
+    }
+    .map-details p {
+        font-size: 25px;
+    }
+    .about-image img {
+        height: 350px;
+    }
+    .navbar {
+        padding: 0 !important;
+    }
+    .navbar-brand {
+        margin-left: 20px;
+    }
+    .navbar-collapse {
+        background-color: #ffffff !important;
+    }
+    nav ul {
+        margin: 0 !important;
+    }
+    nav ul li {
+        margin: 0;
+        margin-top: 5px;
+        border-radius: 0;
+    }
+    nav ul li:hover,:focus {
+        border-radius: 0;
+        background-color: gray;
+    }
+    .navbar-toggler:focus {
+        background-color: #000000 !important;
+        padding: 5px !important;
+    }
+    nav ul li a {
+        color: #000000 !important;
+        font-size: 16px;
+        text-align: left;
+        padding: 10px !important;
+        transition: all 0.5s;
+    }
+    nav ul li a:hover,:focus {
+        padding-left: 20px !important;
+        transition: all 0.5s;
+        color: #ffffff !important;
+    }
+    .active a {
+        color: #ffffff !important;
+    }
+    nav ul li a:hover {
+        color: #ffffff !important;
+    }
+    .fa-user-circle-o {
+        color: #000000 !important;
+    }
+    .dropdown-menu {
+        width: 100%;
+    }
+    .form-control {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .carousel-caption h1 {
+        font-size: 50px;
+    }
+    .all-products {
+        width: 100%;
+        margin: 0;
+    }
+}
+@media (max-width: 767px) {
+    .d-md-block {
+        display: block !important;
+    }
+    .carousel-caption h1 {
+        font-size: 40px;
+    }
+    .carousel-caption a {
+        font-size: 18px;
+    }
+}
+@media (max-width: 660px) {
+    .A91 {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+    .A92 {
+        width: 100%;
+    }
+    .A92>ul>li {
+        float: left;
+        width: 47%;
+    }
+    .A93 {
+        margin-top: 20px;
+    }
+    .A95 {
+        width: 95%;
+        margin-top: 20px;
+    }
+    .map-details {
+        right: 10%;
+    }
+    .about-image img {
+        height: 300px;
+    }
+    .carousel-caption h1 {
+        font-size: 35px;
+    }
+    .carousel-caption a {
+        font-size: 16px;
+    }
+}
+@media (max-width: 576px) {
+    .A92>ul>li {
+        width: 100%;
+    }
+    .A93 h4 {
+        margin: 10px;
+    }
+    footer {
+        margin-top: 120px;
+    }
+    .A91 {
+        padding-bottom: 60px;
+    }
+    #A1,#A2,#A3,#A4,#A5 {
+        width: 270px;
+    }
+    .map-details i {
+        padding: 15px;
+        font-size: 50px;
+    }
+    .map-details p {
+        padding: 15px 15px;
+        font-size: 20px;
+    }
+    .carousel-caption h1 {
+        font-size: 30px;
+    }
+    .carousel-caption a {
+        font-size: 14px;
+    }
+    .carousel-caption {
+        margin-bottom: 30px;
+    }
+    .card {
+        width: 230px;
+    }
+}
+@media (max-width: 500px) {
+    #A11 {
+        margin: 0;
+        margin-right: 95px;   
+        line-height: 1.7;
+        position: relative;
+    }
+    #A12 {
+        margin: 0;
+        margin-right: 85px;   
+        line-height: 1.7;
+    }
+    #A13 {
+        margin: 0;
+        margin-right: 135px;   
+        line-height: 1.7;
+    }
+    #A14 {
+        margin: 0;
+        margin-right: 95px;   
+        line-height: 1.7;
+    }
+    #A15 {
+        margin: 0;
+        margin-right: 20px;   
+        line-height: 1.7;
+    }
+    .about-para h1 {
+        font-size: 30px;
+    }
+    .card {
+        width: 200px;
+    }
+    .A6 h3 {
+        font-size: 24px;
+    }
+}
+@media (max-width: 460px) {
+    #A1,#A2,#A3,#A4,#A5 {
+        margin-top: 0;
+    }
+    #A11 {
+        margin: 0;
+        margin-right: 95px;   
+        line-height: 1.7;
+        position: relative;
+        left: -11%;
+    }
+    #A12 {
+        margin: 0;
+        margin-right: 85px;   
+        line-height: 1.7;
+        position: relative;
+        left: -11%;
+    }
+    #A13 {
+        margin: 0;
+        margin-right: 135px;   
+        line-height: 1.7;
+        position: relative;
+        left: -11%;
+    }
+    #A14 {
+        margin: 0;
+        margin-right: 95px;   
+        line-height: 1.7;
+        position: relative;
+        left: -11%;
+    }
+    #A15 {
+        margin: 0;
+        margin-right: 20px;   
+        line-height: 1.7;
+        position: relative;
+        left: -11%;
+    }
+    .query h1 {
+        font-size: 38px;
+    }
+    .map-details i {
+        font-size: 45px;
+        padding: 5px;
+    }
+    .map-details p {
+        font-size: 15px;
+        padding: 5px;
+        margin: 0;
+    }
+    .map-details {
+        right: 15%;
+    }
+    .about-para h1 {
+        font-size: 25px;
+    }
+    .content {
+        height: 60px;
+        padding: 10px 0;
+    }
+    .content h1 {
+        font-size: 25px;
+    }
+    .about-image img {
+        height: 250px;
+    }
+    .carousel-caption h1 {
+        font-size: 25px;
+        margin-bottom: 8px;
+    }
+    .carousel-caption a {
+        font-size: 12px;
+        padding: 5px;
+    }
+    .carousel-caption {
+        margin-bottom: 25px;
+    }
+    .card {
+        width: 180px;
+    }
+    .card-title {
+        font-size: 18px;
+    }
+    .card-text {
+        font-size: 14px;
+    }
+    .cart {
+        padding: 8px;
+    }
+    .A6 h3 {
+        font-size: 22px;
+    }
+}
+@media (max-width: 390px) {
+    .carousel-caption h1 {
+        font-size: 20px;
+    }
+    .carousel-caption a {
+        font-size: 10px;
+    }
+    .card {
+        width: 160px;
+    }
+    .card-title {
+        font-size: 16px;
+    }
+    .card-text {
+        font-size: 12px;
+    }
+    .cart {
+        padding: 5px;
+    }
+    .A6 h3 {
+        font-size: 21px;
+    }
+}
+@media (max-width: 340px) {
+    .carousel-caption h1 {
+        font-size: 15px;
+    }
+    .carousel-caption a {
+        font-size: 8px;
+    }
+    .card {
+        width: 150px;
+    }
+    .cart {
+        padding: 5px;
+    }
+}
+@media (max-width: 300px) {
+    .form h1 {
+        font-size: 60px;
+    }
+    .form h2 {
+        font-size: 23px;
+    }
+    .form #Email,#Password {
+        width: 240px;
+    }
+    .form button {
+        width: 240px;
+    }
+    #A1,#A2,#A3,#A4,#A5 {
+        width: 240px;
+    }
+    .query h1 {
+        font-size: 30px;
+    }
+    .query form input,textarea {
+        font-size: 17px;
+    }
+    .map-details i {
+        font-size: 40px;
+    }
+    .map-details p {
+        font-size: 12px;
+    }
+    .about-para h1 {
+        font-size: 20px;
+    }
+    .content h1 {
+        font-size: 20px;
+    }
+    .content {
+        height: 50px;
+    }
+    .carousel-caption {
+        margin-bottom: 15px;
+    }
+    .carousel-caption h1 {
+        font-size: 12px;
+        margin-bottom: 5px;
+    }
+    .carousel-caption a {
+        font-size: 8px;
+        padding: 3px;
+    }
+    .form-inline a {
+        margin: 0 auto;
+    }
+    .card {
+        width: 220px !important;
+    }
+    .card-title {
+        font-size: 18px;
+    }
+    .card-text {
+        font-size: 14px;
+    }
+    .cart {
+        padding: 8px;
+    }
+    .A6 h3 {
+        font-size: 20px;
+    }
+}
+
+
